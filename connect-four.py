@@ -356,7 +356,7 @@ def main():
 	reverseProbability = 1
 	size = 8
 
-	print("----4 IN ROW-----\n\n")
+	print("----- CONNECT FOUR -----\n\n")
 
 	player1 = input("Player 1 insert your name: ").capitalize()
 	player2 = input("Player 2 insert your name: ").capitalize()
